@@ -14,3 +14,7 @@ There are certain tools that I use all the time when debugging issues on my Core
 
 - Postgres Client
 - MySQL Client
+
+== Other
+
+- tmux
