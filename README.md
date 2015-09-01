@@ -8,11 +8,14 @@ There are certain tools that I use all the time when debugging issues on my Core
 - wget
 - telnet
 - netcat
+- nsutils (dig, nslookup, ...)
+- traceroute
 
 ## Database
 
 - Postgres Client
 - MySQL Client
+- Redis Client
 
 ## Other
 
